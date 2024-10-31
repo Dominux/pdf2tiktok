@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	common "app/internal/common"
+	"github.com/Dominux/expert-octo-meme-23412/internal/common"
 )
 
 func main() {
